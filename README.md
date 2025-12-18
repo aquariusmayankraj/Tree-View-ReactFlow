@@ -11,15 +11,10 @@ This project is useful for visualizing:
 
 ---
 
-## 🔗 Live Repository
-
-GitHub: [https://github.com/aquariusmayankraj/Tree-View-ReactFlow](https://github.com/aquariusmayankraj/Tree-View-ReactFlow)
-
----
-
 ## 📸 Preview
 
-![Tree View Preview](./preview.png)
+<img width="805" height="621" alt="image" src="https://github.com/user-attachments/assets/adcfb6f1-af87-4b02-a238-625bcd68c4d9" />
+
 
 > Root node remains centered, children are placed symmetrically on left and right, and deeper nodes are auto-aligned to avoid overlap.
 
@@ -96,7 +91,7 @@ The app will run on: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-## 🧠 How It Works (Logic Overview)
+## 🧠 How It Works
 
 1. **Tree data** is defined in a nested JSON structure.
 2. Data is recursively traversed to generate:
@@ -129,28 +124,4 @@ The app will run on: **[http://localhost:3000](http://localhost:3000)**
 * 🌈 Theme switcher (Dark / Light)
 * 💾 Export tree as JSON or Image
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a new branch (`feature/your-feature`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
-
-## 👨‍💻 Author
-
-**Mayank Raj**
-B.Tech | Full Stack Developer | Startup Co-Founder
-GitHub: [https://github.com/aquariusmayankraj](https://github.com/aquariusmayankraj)
-
----
-
-## ⭐ Support
-
-If you like this project, please **star ⭐ the repository** to show your support!
